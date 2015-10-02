@@ -1,0 +1,28 @@
+/*---- Contact us Part Starts Here ---*/
+.contactus{
+	padding:3em 0 7em;
+}
+.contactus h3{
+	font-size: 25px;
+}
+
+.aboutus-row-column i.icon4{
+	width:128px;
+	height:111px;
+	background:url(../images/facebook.png)no-repeat;
+	display: inline-block;
+}
+.aboutus-row-column i.icon5{
+	width:128px;
+	height:111px;
+	background:url(../images/twitter.png)no-repeat;
+	display: inline-block;
+}
+.aboutus-row-column i.icon6{
+	width:128px;
+	height:111px;
+	background:url(../images/linkedin.jpg)no-repeat;
+	display: inline-block;
+}
+
+/*---- Contact us Part Ends here Here ---*/
